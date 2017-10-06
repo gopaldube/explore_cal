@@ -1,3 +1,5 @@
 This is my first file.
-
+line1
+line2
+line3
 Some new changes to check the diff command.
